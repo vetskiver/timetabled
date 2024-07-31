@@ -20,12 +20,12 @@ const Calendar = () => {
                 <tbody>
                     <tr>
                         <td className='time'>8 am</td>
-                        <Event event='Starbucks ☕️' color='green'/>
+                        <Event event='Starbucks ☕️' color='green' location='646 Michigan Ave'/>
                         <td></td>
                         <td></td>
                         <td></td>
                         <td></td>
-                        <Event event='Yolk 🍳' color='green'/>
+                        <Event event='Yolk 🍳' color='green' location='355 E Ohio St'/>
                         <td></td>
                     </tr>
                     <tr>
@@ -33,19 +33,19 @@ const Calendar = () => {
                         <td></td>
                         <td></td>
                         <td></td>
-                        <Event event='Millennium Park 🎪' color='blue'/>
+                        <Event event='Subway 🚊' color='blue' location='Grand Station'/>
                         <td></td>
                         <td></td>
-                        <Event event='The Bean 🫘' color='blue'/>
+                        <Event event='The Bean 🫘' color='blue' location='Millennium Park'/>
                     </tr>
                     <tr>
                         <td className="time">10 am</td>
-                        <Event event='Shedd Aquarium 🐠' color='green'/>
+                        <Event event='Shedd Aquarium 🐠' color='green' location='1200 S Lake Shore Dr'/>
                         <td></td>
                         <td></td>
                         <td></td>
                         <td></td>
-                        <Event event='Skydeck 🌆' color='blue'/>
+                        <Event event='Skydeck 🌆' color='blue' location='233 S Wacker Dr'/>
                         <td></td>
                     </tr>
                     <tr>
@@ -53,19 +53,19 @@ const Calendar = () => {
                         <td></td>
                         <td></td>
                         <td></td>
-                        <Event event='Field Museum 🦖' color='pink'/>
+                        <Event event='Field Museum 🦖' color='pink' location='1400 S Lake Shore Dr'/>
                         <td></td>
                         <td></td>
-                        <Event event='Riverwalk 🚶' color='green'/>
+                        <Event event='Riverwalk 🚶' color='green' location='Chicago River'/>
                     </tr>
                     <tr>
                         <td className="time">12 pm</td>
-                        <Event event='Lou Malnati’s 🍕' color='blue'/>
+                        <Event event='Lou Malnati’s 🍕' color='blue' location='1120 N State St'/>
                         <td></td>
                         <td></td>
                         <td></td>
                         <td></td>
-                        <Event event='Giordano’s 🍕' color='green'/>
+                        <Event event='Giordano’s 🍕' color='green' location='730 N Rush St'/>
                         <td></td>
                     </tr>
                     <tr>
@@ -73,19 +73,19 @@ const Calendar = () => {
                         <td></td>
                         <td></td>
                         <td></td>
-                        <Event event='Botanic Garden 🌺' color='pink'/>
+                        <Event event='Botanic Garden 🌺' color='pink' location='1000 Lake Cook Rd'/>
                         <td></td>
                         <td></td>
-                        <Event event='Lincoln Park Zoo 🦒' color='blue'/>
+                        <Event event='Lincoln Park Zoo 🦒' color='blue' location='2001 N Clark St'/>
                     </tr>
                     <tr>
                         <td className="time">2 pm</td>
-                        <Event event='Museum of Science 🔬' color='green'/>
+                        <Event event='Museum of Science 🔬' color='green' location='5700 S Lake Shore Dr'/>
                         <td></td>
                         <td></td>
                         <td></td>
                         <td></td>
-                        <Event event='Wrigley Field ⚾' color='pink'/>
+                        <Event event='Wrigley Field ⚾' color='pink' location='1060 W Addison St'/>
                         <td></td>
                     </tr>
                     <tr>
@@ -93,24 +93,24 @@ const Calendar = () => {
                         <td></td>
                         <td></td>
                         <td></td>
-                        <Event event='Symphony 🎻' color='blue'/>
+                        <Event event='Symphony 🎻' color='blue' location='220 S Michigan Ave'/>
                         <td></td>
                         <td></td>
-                        <Event event='The Second City 🎭' color='green'/>
+                        <Event event='The Second City 🎭' color='green' location='1616 N Wells St'/>
                     </tr>
                     <tr>
                         <td className="time">4 pm</td>
-                        <Event event='Oak Street Beach 🏖️' color='pink'/>
+                        <Event event='Oak Street Beach 🏖️' color='pink' location='1000 N Lake Shore Dr'/>
                         <td></td>
                         <td></td>
                         <td></td>
                         <td></td>
-                        <Event event='Pizza Grinder 🍕' color='blue'/>
+                        <Event event='Pizza Grinder 🍕' color='blue' location='2268 N Lincoln Ave'/>
                         <td></td>
                     </tr>
                     <tr>
                         <td className="time">5 pm</td>
-                        <Event event='Dinner at The Signature 🍽️' color='blue'/>
+                        <Event event='Dinner at The Signature 🍽️' color='blue' location='875 N Michigan Ave'/>
                         <td></td>
                         <td></td>
                         <td></td>
