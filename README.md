@@ -22,8 +22,7 @@ This project is a simple React-based calendar application that allows users to v
 Here are some screenshots of the website:
 
 ### Calendar View
-![Calendar View](timetabled/src/assets/calendar-view.png)
-
+![Calendar View](assets/calendar-view.png)
 ## Getting Started
 
 To set up and run this project locally, follow these steps:
