@@ -19,7 +19,7 @@ This project is a simple React-based calendar application that allows users to v
 
 ## Website Preview
 
-Here are some screenshots of the website:
+Here is a screenshot of the website:
 
 ### Calendar View
 ![Calendar View](src/assets/calendar-view.png)
