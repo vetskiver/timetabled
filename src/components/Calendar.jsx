@@ -22,9 +22,9 @@ const Calendar = () => {
                         <td className='time'>8 am</td>
                         <Event event='Starbucks ☕️' color='green' location='646 Michigan Ave'/>
                         <td></td>
+                        <Event event='Subway 🚊' color='blue' location='Grand Station'/>
                         <td></td>
-                        <td></td>
-                        <td></td>
+                        <Event event='Yolk 🍳' color='green' location='355 E Ohio St'/>
                         <Event event='Yolk 🍳' color='green' location='355 E Ohio St'/>
                         <td></td>
                     </tr>
@@ -41,7 +41,7 @@ const Calendar = () => {
                     <tr>
                         <td className="time">10 am</td>
                         <Event event='Shedd Aquarium 🐠' color='green' location='1200 S Lake Shore Dr'/>
-                        <td></td>
+                        <Event event='Starbucks ☕️' color='green' location='646 Michigan Ave'/>
                         <td></td>
                         <td></td>
                         <td></td>
